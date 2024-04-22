@@ -1,0 +1,33 @@
+/*spaghetti css*/
+body{ 
+    margin: 0;
+
+}
+
+.main-class{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightcyan;
+    border: 1px solid black;
+    margin: 0 15%;
+    height: 100%;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+p{
+    margin: 0 20%;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+
+ul, ol{
+    list-style-type: none;
+}
+
+li{
+    margin: 0 20%;
+}
